@@ -1,0 +1,8 @@
+Act as an expert in econometrics. Please provide a detailed summary of the attached paper, structured as follows:
+
+    Research Question: What is the specific economic phenomenon being studied?
+    Identification Strategy/Methodology: What is the causal identification strategy (e.g., IV, DiD, RDD, FE)? How does the paper address endogeneity?
+    Data: What are the sources, frequency, and structure (panel, cross-section)?
+    Key Results & Coefficients: What are the main findings? Mention the direction and significance of key coefficients.
+    Robustness Checks: What tests did they perform to validate results?
+    Conclusion/Contribution: What is the main takeaway and how does it advance the literature?
